@@ -11,9 +11,9 @@ This project consists of two components:
 
 Menu screens:
 
-Handling the ball:
+Handling the ball 🎾 :
 
-Bowling experience:
+Bowling experience 🎳 :
 
 ## What is the purpose of this project?
 
