@@ -9,6 +9,12 @@ This project consists of two components:
 
 ![Demonstration](https://media.giphy.com/media/3o72FkiKGMGauydfyg/giphy.gif)
 
+Menu screens:
+
+Handling the ball:
+
+Bowling experience:
+
 ## What is the purpose of this project?
 
 This project was initially produced as part of my Dissertation project whilst undertaking my BSc in Computer Science.
