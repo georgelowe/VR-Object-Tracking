@@ -11,6 +11,8 @@ This project consists of two components:
 
 ## What is the purpose of this project?
 
+This project was initially produced as part of my Dissertation project whilst undertaking my BSc in Computer Science.
+
 ## Created by:
 
 [George Lowe](https://github.com/georgelowe)
@@ -26,4 +28,3 @@ Contact me here:
   </a>
 </p>
 
-This project was initially produced as part of my Dissertation project whilst undertaking my BSc in Computer Science.
