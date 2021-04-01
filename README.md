@@ -5,7 +5,7 @@ This project consists of two components:
 - A python application that utilises [OpenCV](https://opencv.org/) to handle webcam data and produce an output of positional information of an untethered object (a ball!)
 - A virtual reality application that takes the positional data of said object and renders it into the same position relative to the user, such that it can be interacted with
 
-## Demo Video
+## Demo Videos
 
 ![Demonstration](https://media.giphy.com/media/3o72FkiKGMGauydfyg/giphy.gif)
 
