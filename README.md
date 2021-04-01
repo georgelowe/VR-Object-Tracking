@@ -9,11 +9,10 @@ This project consists of two components:
 
 ![Demonstration](https://media.giphy.com/media/3o72FkiKGMGauydfyg/giphy.gif)
 
-Menu screens:
 
-Handling the ball 🎾 :
+Handling the ball 🎾 
 
-Bowling experience 🎳 :
+Bowling experience 🎳 
 
 ## What is the purpose of this project?
 
