@@ -9,9 +9,7 @@ This project consists of two components:
 
 Handling the ball 🎾
 
-<p align = "center>
-  <iframe src="https://giphy.com/embed/w53V104XFiCCjfoaR7" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/w53V104XFiCCjfoaR7">via GIPHY</a></p>
-</p>
+  <iframe align ="center" src="https://giphy.com/embed/w53V104XFiCCjfoaR7" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/w53V104XFiCCjfoaR7">via GIPHY</a></p>
 
 ![Ball Demo](https://media.giphy.com/media/w53V104XFiCCjfoaR7/giphy-downsized-large.gif)
 
