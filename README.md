@@ -8,10 +8,12 @@ This project consists of two components:
 ## Demo Videos
 
 Handling the ball 🎾
-![Simple Ball Demonstration](https://media.giphy.com/media/rfz4WvNWOhWKzRqP8N/giphy.gif)
+
+![Ball Demo](https://media.giphy.com/media/rfz4WvNWOhWKzRqP8N/giphy.gif)
 
 Bowling experience 🎳
-![Bowling Demonstration](https://media.giphy.com/media/WoanwYbF20QDUPGmPu/giphy.gif)
+
+![Bowling Demo](https://media.giphy.com/media/WoanwYbF20QDUPGmPu/giphy.gif)
 
 ## What is the purpose of this project?
 
