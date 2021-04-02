@@ -11,8 +11,6 @@ The system I have created consists of two components:
 - A python application that utilises [OpenCV](https://opencv.org/) to handle webcam data and produce an output of positional information of an untethered object (a ball!)
 - A virtual reality application that takes the positional data of said object and renders it into the same position relative to the user, such that it can be interacted with
 
-This project was initially produced as part of my Dissertation project whilst undertaking my BSc in Computer Science.
-
 ## Demo Videos
 
 Handling the ball 🎾
@@ -38,3 +36,6 @@ Contact me here:
     <img alt="My Twitter" src="https://img.shields.io/badge/-Twitter-00acee?style=flat&logo=Twitter&logoColor=white" />
   </a>
 </p>
+
+
+This project was initially produced as part of my Dissertation project whilst undertaking my BSc in Computer Science.
