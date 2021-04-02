@@ -1,5 +1,7 @@
 # Camera-based object tracking for VR experiences
 
+**Project Objective: Tracking a ball in 3D physical space and reproducing it within a VR headset, such that ball games can be played**
+
 Immersivity of Virtual Reality experiences is often enhanced when users are able to interact with objects within a virtual environment. 
 
 Typically the mode of interaction restricts users to handling non-existent objects, creating a sense of incompleteness whereby the user's tactile sense is not stimulated. 
@@ -8,8 +10,8 @@ This project introduces a complete system, such that a physical object is tracke
 
 The system I have created consists of two components:
 
-- A python application that utilises [OpenCV](https://opencv.org/) to handle webcam data and produce an output of positional information of an untethered object (a ball!)
-- A virtual reality application that takes the positional data of said object and renders it into the same position relative to the user, such that it can be interacted with
+- A python 2.7.16 application that utilises [OpenCV](https://opencv.org/) to handle webcam data and produce an output of positional information of an untethered object (a ball!)
+- A C# virtual reality application that takes the positional data of said object and renders it into the same position relative to the user, such that it can be interacted with (Unity3D implementation)
 
 ## Demo Videos
 
