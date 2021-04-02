@@ -7,12 +7,11 @@ This project consists of two components:
 
 ## Demo Videos
 
-![Demonstration](https://media.giphy.com/media/3o72FkiKGMGauydfyg/giphy.gif)
+Handling the ball 🎾
+![Simple Ball Demonstration](https://media.giphy.com/media/rfz4WvNWOhWKzRqP8N/giphy.gif)
 
-
-Handling the ball 🎾 
-
-Bowling experience 🎳 
+Bowling experience 🎳
+![Bowling Demonstration](https://media.giphy.com/media/WoanwYbF20QDUPGmPu/giphy.gif)
 
 ## What is the purpose of this project?
 
@@ -32,4 +31,3 @@ Contact me here:
     <img alt="My Twitter" src="https://img.shields.io/badge/-Twitter-00acee?style=flat&logo=Twitter&logoColor=white" />
   </a>
 </p>
-
