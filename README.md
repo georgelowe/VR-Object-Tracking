@@ -1,9 +1,17 @@
 # Camera-based object tracking for VR experiences
 
-This project consists of two components:
+**Project Objective:** Tracking a ball in 3D physical space and reproducing it within a VR headset, such that ball games can be played.
 
-- A python application that utilises [OpenCV](https://opencv.org/) to handle webcam data and produce an output of positional information of an untethered object (a ball!)
-- A virtual reality application that takes the positional data of said object and renders it into the same position relative to the user, such that it can be interacted with
+Immersivity of Virtual Reality experiences is often enhanced when users are able to interact with objects within a virtual environment. 
+
+Typically the mode of interaction restricts users to handling non-existent objects, creating a sense of incompleteness whereby the user's tactile sense is not stimulated. 
+
+This project introduces a complete system, such that a physical object is tracked using a webcam and reproduced in the same precise location within a virtual environment, allowing users to manipulate the object whilst in virtual reality.
+
+The system I have created consists of two components:
+
+- A python 2.7.16 application that utilises [OpenCV](https://opencv.org/) to handle webcam data and produce an output of positional information of an untethered object (a ball!)
+- A C# virtual reality application that takes the positional data of said object and renders it into the same position relative to the user, such that it can be interacted with (Unity3D implementation)
 
 ## Demo Videos
 
@@ -15,9 +23,6 @@ Bowling experience 🎳
 
 ![Bowling Demo](https://media.giphy.com/media/WoanwYbF20QDUPGmPu/giphy.gif)
 
-## What is the purpose of this project?
-
-This project was initially produced as part of my Dissertation project whilst undertaking my BSc in Computer Science.
 
 ## Created by:
 
@@ -33,3 +38,6 @@ Contact me here:
     <img alt="My Twitter" src="https://img.shields.io/badge/-Twitter-00acee?style=flat&logo=Twitter&logoColor=white" />
   </a>
 </p>
+
+
+This project was initially produced as part of my Dissertation project whilst undertaking my BSc in Computer Science.
