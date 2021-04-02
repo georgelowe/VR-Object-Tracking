@@ -9,7 +9,7 @@ This project consists of two components:
 
 Handling the ball 🎾
 
-![Ball Demo](https://media.giphy.com/media/rfz4WvNWOhWKzRqP8N/giphy.gif)
+![Ball Demo](https://media.giphy.com/media/w53V104XFiCCjfoaR7/giphy-downsized-large.gif)
 
 Bowling experience 🎳
 
