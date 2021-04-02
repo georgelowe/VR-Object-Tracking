@@ -8,7 +8,7 @@ Typically the mode of interaction restricts users to handling non-existent objec
 
 This project introduces a complete system, such that a physical object is tracked using a webcam and reproduced in the same precise location within a virtual environment, allowing users to manipulate the object whilst in virtual reality.
 
-The system I have created consists of two components:
+The system I have created consists of two components that communicate via UDP:
 
 - A python 2.7.16 application that utilises [OpenCV](https://opencv.org/) to handle webcam data and produce an output of positional information of an untethered object (a ball!)
 - A C# virtual reality application that takes the positional data of said object and renders it into the same position relative to the user, such that it can be interacted with (Unity3D implementation)
