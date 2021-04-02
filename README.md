@@ -1,6 +1,6 @@
 # Camera-based object tracking for VR experiences
 
-**Project Objective: Tracking a ball in 3D physical space and reproducing it within a VR headset, such that ball games can be played**
+**Project Objective:** Tracking a ball in 3D physical space and reproducing it within a VR headset, such that ball games can be played.
 
 Immersivity of Virtual Reality experiences is often enhanced when users are able to interact with objects within a virtual environment. 
 
